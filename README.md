@@ -15,6 +15,7 @@
 6. [researching-web-skill](https://github.com/vasilievyakov/researching-web-skill)
 7. [Financial-Reporting-Skills](https://github.com/muggl3mind/Financial-Reporting-Skills)
 8. 尽调报告 [private-equity-investment-dd-skill](https://github.com/noahnan-max/private-equity-investment-dd-skill)
+9. [last30days-cn-skill](https://github.com/Hairy-jumper134/last30days-cn-skill)
 
 ## 办公提效
 
