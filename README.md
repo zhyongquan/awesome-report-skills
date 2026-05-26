@@ -3,7 +3,7 @@
 
 ## 运行中
 
-1. [awesome-daily-AI-arxiv](https://github.com/Tavish9/awesome-daily-AI-arxiv)
+1. arxiv日报 [awesome-daily-AI-arxiv](https://github.com/Tavish9/awesome-daily-AI-arxiv)
 
 ## 信息收集
 
