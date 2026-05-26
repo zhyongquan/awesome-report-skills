@@ -1,7 +1,7 @@
 # awesome-report-skills
 收集各类报告skill。
 
-## 
+## 运行中
 
 1. [awesome-daily-AI-arxiv](https://github.com/Tavish9/awesome-daily-AI-arxiv)
 
@@ -12,10 +12,10 @@
 3. 企业调研 [Enterprise-ai-scenario-map-skill](https://github.com/MetaInFLow/Enterprise-ai-scenario-map-skill)
 4. 竞企分析 [gaphunter-skill](https://github.com/debba/gaphunter-skill)
 5. 论文 [AutoPaperSkill](https://github.com/Zachary709/AutoPaperSkill)
-6. [researching-web-skill](https://github.com/vasilievyakov/researching-web-skill)
-7. [Financial-Reporting-Skills](https://github.com/muggl3mind/Financial-Reporting-Skills)
+6. 报告agent [researching-web-skill](https://github.com/vasilievyakov/researching-web-skill)
+7. 理财报告 [Financial-Reporting-Skills](https://github.com/muggl3mind/Financial-Reporting-Skills)
 8. 尽调报告 [private-equity-investment-dd-skill](https://github.com/noahnan-max/private-equity-investment-dd-skill)
-9. [last30days-cn-skill](https://github.com/Hairy-jumper134/last30days-cn-skill)
+9. 国内趋势 [last30days-cn-skill](https://github.com/Hairy-jumper134/last30days-cn-skill)
 
 ## 办公提效
 
@@ -30,7 +30,7 @@
 
 1. 论文精读 [Research-Skill-Marketplace](https://github.com/CatVinci-Studio/Research-Skill-Marketplace)
 2. 技研报告解读 [research-report-reader-skill](https://github.com/silentdog918/research-report-reader-skill)
-3. [academic-report-generator-skill](https://github.com/yishitys/academic-report-generator-skill)
+3. 学术报告 [academic-report-generator-skill](https://github.com/yishitys/academic-report-generator-skill)
 
 
 ## 报告生成
@@ -38,4 +38,4 @@
 1. GitHub交互 [claude-html-report-skill](https://github.com/voidful/claude-html-report-skill)
 2. 快速报告 [claude-skill-write-academic-report](https://github.com/PHY041/claude-skill-write-academic-report)
 3. docx报告 [docx-report-skill](https://github.com/drharunyuksel/docx-report-skill)
-4. [Report-Skill](https://github.com/TheoRata/Report-Skill)
+4. html [Report-Skill](https://github.com/TheoRata/Report-Skill)
